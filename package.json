@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlorenzo/FriendFinder.git"
+  },
+  "keywords": [
+    "FriendFinder"
+  ],
+  "author": "Tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlorenzo/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/tlorenzo/FriendFinder#readme"
+}
